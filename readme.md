@@ -1,5 +1,5 @@
-# Package setup template with React, Styled Components, Enzyme, Jest and Storybook
-Scaffolding for React package using some common libraries.
+# Package setup template with Typescript, React, Styled Components, Enzyme, Jest and Storybook
+Scaffolding for Typescript React package using some common libraries.
 
 # General
 Install all dependencies using `npm i` (make sure node js is installed)
